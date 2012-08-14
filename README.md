@@ -1,6 +1,6 @@
 ## Font Kit Rails - Awesome font kit for your rails app
 
-This project rocks and uses MIT-LICENSE.
+*Please place an [issue](https://github.com/sandelius/font-kit-rails/issues) to request a font.*
 
 Add the following line to your `Gemfile` and run `bundle install`:
 

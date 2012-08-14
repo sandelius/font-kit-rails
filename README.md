@@ -20,7 +20,7 @@ To load a speficific font:
  *= require font-kit-rails/ubuntu
 ```
 
-### Fonts
+# Fonts
 
 *Open Sans*
 ```

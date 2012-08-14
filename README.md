@@ -25,27 +25,27 @@ To load a speficific font:
 ### Open Sans
 
 ```
-  300
-  300:italic
-  normal
-  normal|italic
-  600
-  600|italic
-  bold
-  bold|italic
-  900
-  900|italic
+300
+300|italic
+normal
+normal|italic
+600
+600|italic
+bold
+bold|italic
+900
+900|italic
 ```
 
 ### Ubuntu
 
 ```
-  300
-  300:italic
-  normal
-  normal|italic
-  600
-  600|italic
-  bold
-  bold|italic
+300
+300:italic
+normal
+normal|italic
+600
+600|italic
+bold
+bold|italic
 ```

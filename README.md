@@ -22,8 +22,8 @@ To load a speficific font:
 
 ### Fonts
 
+*Open Sans*
 ```
-Open Sans
   300
   300:italic
   normal

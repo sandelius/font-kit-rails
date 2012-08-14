@@ -25,6 +25,9 @@ To load a speficific font:
 ### Open Sans
 
 ```
+font-family: 'Open Sans'
+
+fint-size|font-style:
 300
 300|italic
 normal
@@ -40,6 +43,8 @@ bold|italic
 ### Ubuntu
 
 ```
+font-family: 'Ubuntu'
+
 300
 300:italic
 normal

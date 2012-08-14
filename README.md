@@ -1,4 +1,4 @@
-### Font Kit Rails - Awesome font kit for your rails app
+## Font Kit Rails - Awesome font kit for your rails app
 
 This project rocks and uses MIT-LICENSE.
 
@@ -20,9 +20,10 @@ To load a speficific font:
  *= require font-kit-rails/ubuntu
 ```
 
-# Fonts
+## Fonts
 
-*Open Sans*
+### Open Sans
+
 ```
   300
   300:italic
@@ -36,7 +37,9 @@ To load a speficific font:
   900|italic
 ```
 
-Ubuntu
+### Ubuntu
+
+```
   300
   300:italic
   normal
@@ -45,3 +48,4 @@ Ubuntu
   600|italic
   bold
   bold|italic
+```

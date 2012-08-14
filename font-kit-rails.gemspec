@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = FontKitRails::VERSION
   s.authors     = ["Tobias Sandelius"]
   s.email       = ["tobias@sandeli.us"]
-  s.homepage    = "http://sandeli.us"
+  s.homepage    = "https://github.com/sandelius/font-kit-rails"
   s.summary     = "Font Kit Rails - Awesome font kit for your rails app."
   s.description = ""
 

@@ -27,7 +27,6 @@ To load a speficific font:
 ```
 font-family: 'Open Sans'
 
-fint-size|font-style:
 300
 300|italic
 normal

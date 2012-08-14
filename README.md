@@ -14,7 +14,7 @@ Include font-kit-rails css file (all fonts) in your application.css:
  *= require font-kit-rails
 ```
 
-To load a speficific font:
+or load a specific font:
 
 ```
  *= require font-kit-rails/ubuntu

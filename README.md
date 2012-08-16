@@ -22,6 +22,15 @@ or load a specific font:
 
 ## Fonts
 
+### Droid Sans
+
+```
+font-family: 'Droid Sans'
+
+normal
+bold
+```
+
 ### Open Sans
 
 ```

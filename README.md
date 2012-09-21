@@ -48,6 +48,19 @@ bold|italic
 900|italic
 ```
 
+### PT Serif
+
+```
+font-family: 'PT Serif'
+
+normal
+normal|italic
+600
+600|italic
+bold
+bold|italic
+```
+
 ### Ubuntu
 
 ```

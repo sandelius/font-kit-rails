@@ -2,10 +2,20 @@
 
 *Please place an [issue](https://github.com/sandelius/font-kit-rails/issues/new) to request a font.*
 
+## Installation
+
 Add the following line to your `Gemfile` and run `bundle install`:
 
+### Rails 4
+
 ```
-gem 'font-kit-rails'
+gem 'font-kit-rails', '~> 1.2.0'
+```
+
+### Rails 3
+
+```
+gem 'font-kit-rails', '1.1.0'
 ```
 
 Include font-kit-rails css file (all fonts) in your application.css:

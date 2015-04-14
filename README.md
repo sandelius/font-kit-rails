@@ -16,6 +16,19 @@ Include font-kit-rails css file (all fonts) in your application.css:
 
 or load a specific font:
 
+
+```
+ *= require font-kit-rails/droid-sans
+```
+
+```
+ *= require font-kit-rails/open-sans
+```
+
+```
+ *= require font-kit-rails/pt-serif
+```
+
 ```
  *= require font-kit-rails/ubuntu
 ```
